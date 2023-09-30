@@ -779,3 +779,5 @@ https://www.youtube.com/@DDayCobra/live
 Aastha TV | Spiritual | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
 https://www.youtube.com/@AasthaChannel/live
 
+Tvplay | italian | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TVPlay_Sports_Logo_2018.svg/2560px-TVPlay_Sports_Logo_2018.svg.png
+https://www.youtube.com/@Tvplay365/live
